@@ -15,7 +15,6 @@
 
   Quick script to backup all databases using LiteSpeed.  This takes advantage of the excellent compression which LiteSpeed offers.
   Quick script to backup all databases using LiteSpeed.  This takes advantage of the excellent compression which LiteSpeed offers.
-  
   Quick script to backup all databases using LiteSpeed.  This takes advantage of the excellent compression which LiteSpeed offers.
 ---
 ## SQL-Logic
