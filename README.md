@@ -1,4 +1,6 @@
-![MIKES DATA WORK GIT REPO](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png "Mikes Data Work")    # Backup All Databases With LiteSpeed
+![MIKES DATA WORK GIT REPO](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png "Mikes Data Work")    
+
+# Backup All Databases With LiteSpeed
 **Post Date: November 22, 2004**  
 ![#](images/##############?raw=true "#")    
 
