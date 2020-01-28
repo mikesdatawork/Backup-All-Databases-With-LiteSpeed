@@ -2,8 +2,6 @@
 
 # Backup All Databases With LiteSpeed
 **Post Date: November 22, 2004**  
-![#](images/##############?raw=true "#")    
-![#](https://mikesdatawork.files.wordpress.com/2015/07/image002.jpg?raw=true "#") 
 ![#](https://mikesdatawork.files.wordpress.com/2015/07/image002.jpg "#") 
 
 ## Contents    
@@ -19,7 +17,7 @@
 
   Quick script to backup all databases using LiteSpeed.  This takes advantage of the excellent compression which LiteSpeed offers.
 
-![#](https://mikesdatawork.files.wordpress.com/2015/07/image005.jpg"#")
+![#](https://mikesdatawork.files.wordpress.com/2015/07/image005.jpg "#")
 
 ---
 ## SQL-Logic
