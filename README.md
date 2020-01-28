@@ -2,7 +2,6 @@
 
 # Backup All Databases With LiteSpeed
 **Post Date: November 22, 2004**  
-![#](https://mikesdatawork.files.wordpress.com/2015/07/image002.jpg "#") 
 
 ## Contents    
 - [About Process](##About-Process)  
@@ -16,8 +15,6 @@
 <div>
 
   Quick script to backup all databases using LiteSpeed.  This takes advantage of the excellent compression which LiteSpeed offers.
-
-![#](https://mikesdatawork.files.wordpress.com/2015/07/image005.jpg "#")
 
 ---
 ## SQL-Logic
@@ -41,10 +38,6 @@ select 'exec master.dbo.xp_backup_database @database = ''' + name + ''', @filena
 [![Gist](https://img.shields.io/badge/Gist-MikesDataWork-<COLOR>.svg)](https://gist.github.com/mikesdatawork)
 [![Twitter](https://img.shields.io/badge/Twitter-MikesDataWork-<COLOR>.svg)](https://twitter.com/mikesdatawork)
 [![Wordpress](https://img.shields.io/badge/Wordpress-MikesDataWork-<COLOR>.svg)](https://mikesdatawork.wordpress.com/)
-
-
-
-
 
 ---
 ## License
