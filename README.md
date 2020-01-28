@@ -3,6 +3,8 @@
 # Backup All Databases With LiteSpeed
 **Post Date: November 22, 2004**  
 ![#](images/##############?raw=true "#")    
+![#](https://mikesdatawork.files.wordpress.com/2015/07/image002.jpg?raw=true "#") 
+![#](https://mikesdatawork.files.wordpress.com/2015/07/image002.jpg "#") 
 
 ## Contents    
 - [About Process](##About-Process)  
